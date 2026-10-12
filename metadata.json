@@ -1,0 +1,6 @@
+{
+  "name": "Opportunity Atlas",
+  "description": "Discover hackathons, find curated courses, build real-world skills, and elevate your performance with the AI Hackathon Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
